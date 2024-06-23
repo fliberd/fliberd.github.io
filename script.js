@@ -11,7 +11,7 @@ new Docute({
       },
       {
         title: 'Github',
-        link: 'https://github.com/DotMan2000/Opercat'
+        link: 'https://github.com/fliberd/fliberd.github.io'
       }
     ],
     sidebar: [
