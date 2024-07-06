@@ -16,31 +16,15 @@ new Docute({
     ],
     sidebar: [
       {
-        title: 'О проекте',
+        title: 'ocserv-docker-kit',
         links: [
           {
-            title: 'Введение',
-            link: '/introduction'
-          },
-          {
-            title: 'Механики',
-            link: '/mehanics'
+            title: 'Quick start',
+            link: '/ocserv-docker-kit'
           }
         ]
       },
-      {
-        title: 'Развертывание',
-        links: [
-          {
-            title: 'Visual Studio',
-            link: '/vs'
-          },
-          {
-            title: 'Docker desktop',
-            link: '/docker-desktop'
-          }
-        ]
-      } 
+      
     ]
   })
   
