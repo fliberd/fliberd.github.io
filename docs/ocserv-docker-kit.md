@@ -2,5 +2,5 @@
 
 ### Use script for Debian || Ubuntu
 ```
-wget -qO- https://github.com/fliberd/ocserv-docker-kit/raw/quick-start.sh | bash
+wget -qO- https://raw.githubusercontent.com/fliberd/ocserv-docker-kit/master/quick-start.sh | bash
 ```

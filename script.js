@@ -11,7 +11,7 @@ new Docute({
       },
       {
         title: 'Github',
-        link: 'https://github.com/fliberd/fliberd.github.io'
+        link: 'https://github.com/fliberd/'
       }
     ],
     sidebar: [
